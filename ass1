@@ -1,0 +1,9 @@
+even_nums = []
+
+for x in range(21):
+
+    if x%2 == 0:
+
+        even_nums.append(x)
+
+print(even_nums)
